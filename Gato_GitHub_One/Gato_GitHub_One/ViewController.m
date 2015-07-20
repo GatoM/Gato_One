@@ -18,11 +18,19 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     [self addAllView];
+    [self addButtons];
 }
 
 -(void)addAllView
 {
     self.view.backgroundColor = [UIColor cyanColor];
+    
+    
+}
+-(void)addButtons
+{
+    UIButton * button = [[UIButton alloc]init];
+    
 }
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
