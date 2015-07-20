@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>3CF6156A-39DF-4C30-8FEC-BAE90528A847</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>Gato_GitHub_One</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>F0393DD91DFF536F9E797A7C1BA0AE827E409C75</key>
 		<string>https://github.com/GatoM/Gato_One.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Gato_GitHub_One/Gato_GitHub_One.xcodeproj/project.xcworkspace</string>
+	<string>Gato_GitHub_One/Gato_GitHub_One.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>F0393DD91DFF536F9E797A7C1BA0AE827E409C75</key>
