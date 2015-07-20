@@ -15,7 +15,22 @@
 @implementation ViewController
 
 - (void)viewDidLoad {
-    [super viewDidLoad];
+    [super viewDidLoad];dgfr
+    
+    
+    
+    
+    dfgfdgfdgfdgdfgdf
+    
+    
+    
+    
+    
+    
+    
+    
+    gdfgf
+    
     // Do any additional setup after loading the view, typically from a nib.
     [self addAllView];
     [self addButtons];
