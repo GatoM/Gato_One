@@ -30,7 +30,7 @@
 -(void)addButtons
 {
     UIButton * button = [[UIButton alloc]init];
-    
+    UIButton * button1 = [[UIButton alloc]init];
 }
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
